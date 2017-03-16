@@ -1,4 +1,4 @@
-FROM redytalk/nodejs
+FROM readytalk/nodejs
 
 ENV BUCKY_VERSION 0.4.1
 
