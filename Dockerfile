@@ -1,4 +1,4 @@
-FROM dockerfile/nodejs
+FROM redytalk/nodejs
 
 ENV BUCKY_VERSION 0.4.1
 
